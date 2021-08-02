@@ -36,8 +36,9 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ArtemS83/count.svg" />
 </p> -->
-[![Visits Badge](https://badges.pufler.dev/visits/ArtemS83/ArtemS83)]
-![Visitor Count](https://profile-counter.glitch.me/ArtemS83/count.svg)
+<!-- [![Visits Badge](https://badges.pufler.dev/visits/ArtemS83/ArtemS83)]
+![Visitor Count](https://profile-counter.glitch.me/ArtemS83/count.svg) -->
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ArtemS83.visitor-badge)
 <!--
 **ArtemS83/ArtemS83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
