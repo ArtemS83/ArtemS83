@@ -39,7 +39,7 @@
 <!-- [![Visits Badge](https://badges.pufler.dev/visits/ArtemS83/ArtemS83)]
 ![Visitor Count](https://profile-counter.glitch.me/ArtemS83/count.svg) -->
  <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ArtemS83.visitor-badge) -->
- ![](https://api.visitorbadge.io/api/VisitorHit?user=ArtemS83&repo=ArtemS83&countColor=%#37d67a)
+ [![](https://api.visitorbadge.io/api/VisitorHit?user=ArtemS83&repo=ArtemS83&countColor=%#37d67a)]
 <!--
 **ArtemS83/ArtemS83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
