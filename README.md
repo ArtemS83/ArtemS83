@@ -6,6 +6,7 @@
 
 ### My stack and tools:
 
+<p>
 <img align="left" alt="JavaScript" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <img align="left" alt="React" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -31,8 +32,13 @@
 <img align="left" alt="Terminal" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <img align="left" alt="Visual Studio Code" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-[![Watchers Badge](https://img.shields.io/github/watchers/ArtemS83/ArtemS83.svg)](https://github.com/ArtemS83/ArtemS83)
+</p>
+<!-- [![Watchers Badge](https://img.shields.io/github/watchers/ArtemS83/ArtemS83.svg)](https://github.com/ArtemS83/ArtemS83) -->
+<p align='center'>
+   <a href="https://github.com/ArtemS83/ArtemS83">
+      <img src="https://ArtemS83-github.azurewebsites.net/api/VisitorHit?user=ArtemS83&repo=ArtemS83&countColor=%237B1E7A" />
+   </a>
+</p>
 
 <!--
 **ArtemS83/ArtemS83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
