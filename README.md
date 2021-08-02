@@ -31,7 +31,12 @@
 <img align="left" alt="Terminal" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <img align="left" alt="Visual Studio Code" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
+<br/>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ArtemS83/count.svg" />
+</p>
+<!-- ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg) -->
 <!--
 **ArtemS83/ArtemS83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
