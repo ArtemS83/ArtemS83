@@ -7,7 +7,7 @@
 <a href="https://github.com/ArtemS83/ArtemS83">
     <img  align="left" src="https://komarev.com/ghpvc/?username=ArtemS83&color=brightgreen">
 </a>
-
+<br>
 ### My stack and tools:
 
 <img align="left" alt="JavaScript" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
