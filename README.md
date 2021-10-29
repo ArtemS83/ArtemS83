@@ -27,6 +27,8 @@
 
 <img align="left" alt="Sass" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
+<img align="left" alt="Npm" width="54px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/npm/npm.png" />
+
 <img align="left" alt="Webpack" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
 
 <img align="left" alt="Babel" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/babel/babel.png" />
@@ -34,6 +36,8 @@
 <img align="left" alt="Git" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <img align="left" alt="GitHub" width="64px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+<img align="left" alt="Postman" width="64px" src="https://camo.githubusercontent.com/39d5251f857dcf01a61cf372a7aeec84ff012aaba40bd1ce56b6999f68f6213e/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f706f73746d616e2d69636f6e2e737667" />
 
 <img align="left" alt="Terminal" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
